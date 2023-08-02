@@ -4,7 +4,7 @@
 
 ## Information
 
-Ce dépôt contient un bot Telegram permettant de générer des liens d'invitation pour un groupe spécifié. Lorsqu'un utilisateur envoie le mot-clé "invite" au bot, celui-ci générera un lien d'invitation unique et l'enverra en message privé à l'utilisateur. Le lien expirera automatiquement après 7 jours ou après la première utilisation.
+Ce dépôt contient un bot Telegram permettant de générer des liens d'invitation pour un groupe spécifié. Lorsqu'un utilisateur envoie le mot-clé "/invite" au bot, celui-ci générera un lien d'invitation unique et l'enverra en message privé à l'utilisateur. Le lien expirera automatiquement après 7 jours ou après la première utilisation.
 
 
 

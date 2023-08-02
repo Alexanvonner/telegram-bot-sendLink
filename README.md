@@ -16,7 +16,7 @@ Clone the project
 
 
 ```bash
-  git clone https://link-to-project
+  git clone  https://github.com/Alexanvonner/telegram-bot-sendLink/
 ```
 
 Go to the project directory
